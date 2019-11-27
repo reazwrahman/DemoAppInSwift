@@ -1,7 +1,7 @@
 ## REAZFIRSTAPP
 
 ### App Description
-`TODO://` simple IOS demo app which incoprorates a few interactive buttons to change certain visual attributes on the screen. 
+A simple IOS demo app built in Swift that incoprorates a few interactive buttons to change certain visual attributes on the screen such as text label, text color and background color. The app also allows user to enter a text input which is then displayed on the screen. 
 
 ### App Walk-though
 <img src="http://g.recordit.co/MFxZ2Oum7T.gif" width=200><br>
